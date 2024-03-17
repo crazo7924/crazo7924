@@ -18,5 +18,5 @@
 
 ### Sponsor me
 
-<a href="https://www.buymeacoffee.com/crazo7924" target="_blank"><img src="https://img.buymeacoffee.com/button-api/?text=Donate for my public contributions&emoji=🎁&slug=crazo7924&button_colour=000000&font_colour=ffffff&font_family=Lato&outline_colour=ffffff&coffee_colour=ffffff" /></a>
+<a href="https://www.buymeacoffee.com/crazo7924" target="_blank"><img src="https://img.buymeacoffee.com/button-api/?text=Support my public contrib&emoji=🎁&slug=crazo7924&button_colour=000000&font_colour=ffffff&font_family=Lato&outline_colour=ffffff&coffee_colour=ffffff" /></a>
 
