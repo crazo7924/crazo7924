@@ -1,6 +1,6 @@
 ### Profile statistics
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=crazo7924&count_private=true&show_icons=true&border_radius=8px&hide_border=false&include_all_commits=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=crazo7924&count_private=true&show_icons=true&border_radius=8px&hide_border=false&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 
 ---
