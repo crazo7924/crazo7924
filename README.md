@@ -12,7 +12,7 @@
 
 ### Hire me
 
-[Download resume](<Bharat Dev Burman - resume.pdf>)
+[Resume](<resume.txt>)
 
 ---
 
