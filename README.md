@@ -12,7 +12,7 @@
 
 ### Hire me
 
-[Resume](<resume.txt>)
+[Resume](<resume.docx>)
 
 ---
 
