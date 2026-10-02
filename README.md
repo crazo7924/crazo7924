@@ -1,4 +1,12 @@
-### Profile statistics
+# Hi, I am crazo7924
+
+### GitFut card
+
+[![My GitFut card](https://gitfut.com/crazo7924.png)](https://gitfut.com/crazo7924)
+
+---
+
+# Profile stats
 
 ![GitHub stats](https://github-readme-stats-v2-frontend.vercel.app/api?username=crazo7924&count_private=true&show_icons=true&border_radius=8px&hide_border=false&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
